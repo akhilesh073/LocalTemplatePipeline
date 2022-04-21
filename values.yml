@@ -1,4 +1,4 @@
-artifactoryIntegration: TestInt
+artifactoryIntegration: artifactInt
 
 GitRepo:
   name: TestYmlPipeline
