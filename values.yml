@@ -3,7 +3,7 @@ artifactoryIntegration: artifactInt
 GitRepo:
   name: TestYmlPipeline
   gitProvider: TestInt
-  path: myorg/myrepo
+  path: akhilesh073/ymlTest
   branches:
     include: master
 
