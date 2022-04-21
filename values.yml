@@ -17,7 +17,7 @@ Pipeline:
 DockerBuild:
   name: myDockerBuild
   dockerFileName: Dockerfile
-  dockerImageName: <image name>
+  dockerImageName: testDockerImage
 
 DockerPush:
   targetRepository: docker-local
