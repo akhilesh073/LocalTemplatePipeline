@@ -16,7 +16,7 @@ resources:
       registry: {{ .Values.artifactoryIntegration }}
       sourceRepository: {{ .Values.Image.sourceRepository }}
       imageName: {{ .Values.DockerBuild.dockerImageName }}
-      imageTag: 1
+      imageTag: "1"
       autoPull: true
 
 pipelines:
